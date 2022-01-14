@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://slowdolphin.github.io/csb-v5bhu/static/css/main.79dbbce4.chunk.css",
+    "main.js": "https://slowdolphin.github.io/csb-v5bhu/static/js/main.0e42d098.chunk.js",
+    "main.js.map": "https://slowdolphin.github.io/csb-v5bhu/static/js/main.0e42d098.chunk.js.map",
+    "runtime-main.js": "https://slowdolphin.github.io/csb-v5bhu/static/js/runtime-main.6971243c.js",
+    "runtime-main.js.map": "https://slowdolphin.github.io/csb-v5bhu/static/js/runtime-main.6971243c.js.map",
+    "static/js/2.68c837ae.chunk.js": "https://slowdolphin.github.io/csb-v5bhu/static/js/2.68c837ae.chunk.js",
+    "static/js/2.68c837ae.chunk.js.map": "https://slowdolphin.github.io/csb-v5bhu/static/js/2.68c837ae.chunk.js.map",
+    "index.html": "https://slowdolphin.github.io/csb-v5bhu/index.html",
+    "static/css/main.79dbbce4.chunk.css.map": "https://slowdolphin.github.io/csb-v5bhu/static/css/main.79dbbce4.chunk.css.map",
+    "static/js/2.68c837ae.chunk.js.LICENSE.txt": "https://slowdolphin.github.io/csb-v5bhu/static/js/2.68c837ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6971243c.js",
+    "static/js/2.68c837ae.chunk.js",
+    "static/css/main.79dbbce4.chunk.css",
+    "static/js/main.0e42d098.chunk.js"
+  ]
+}
